@@ -1,1 +1,4 @@
 # Sequence-Anomaly-Detection
+
+## Abstract
+In recent years, anomaly detection has attracted many researchers’ attentions, because of its importance to public safety. Anomaly detection is widely used in today's security and maintenance applications to detect abnormal events or entities which have a deviation from the rest of the multimedia data. However, less work has been done in terms of detecting suspicious event sequences/paths, which are better discriminators than single events/entities for distinguishing normal and abnormal behaviors in complex systems. Moreover, there has been no exploration in audio modality of event sequence anomaly detection. A key and challenging step in this endeavor is to discover these abnormal event sequences from millions of audio event records in an efficient and accurate way. The aim of the project will be to come up with a novel approach to efficiently detect anomalies in a given audio sample using a sequence of events.
